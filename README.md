@@ -1,11 +1,11 @@
 # 🧐 About me: 
 
-**FullStack Developer**
+**'FullStack Developer**
 
 - 📍 Living in Jaguaquara, Brazil 🇧🇷
 - 🎂 21 years old
 - 👨‍💻 Java & React Developer | Constantly learning new technologies
-- 💬 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/victor-santos-faasty)
+- 💬 Connect with me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-faasty)
  
 
 
@@ -47,4 +47,11 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+</div>
+
+### 📊 **GitHub Stats:**
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
