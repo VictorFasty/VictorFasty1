@@ -1,6 +1,6 @@
 # 🧐 About me: 
 
-**'FullStack Developer**
+**FullStack Developer**
 
 - 📍 Living in Jaguaquara, Brazil 🇧🇷
 - 🎂 21 years old
